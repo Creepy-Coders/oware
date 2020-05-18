@@ -234,7 +234,7 @@ let updateConsole boardState =
     System.Console.WriteLine ("\t\t ||  ||                                                 ||  ||")
     System.Console.WriteLine ("\t\t--------------------------POINTS: {0}----------------------------", sPts)
     System.Console.WriteLine ("\t\t                           SOUTH")
-    System.Console.WriteLine ("\t\t===============================================================\n\t\t\t\t\n\t\t---------------------------------------------------------------")
+    System.Console.WriteLine ("\t\t===============================================================\n\t\t\t\t"+"created by Group 8 CS3 2020"+"\n\t\t---------------------------------------------------------------")
     ()
 
 let __getUserInput () = // impure
